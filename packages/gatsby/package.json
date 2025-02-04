@@ -17,7 +17,7 @@
   "dependencies": {
     "@apollo/client": "^3.3.21",
     "@babel/runtime": "^7.15.4",
-    "@graphql-tools/links": "^8.2.1",
+    "@graphql-tools/links": "^8.3.36",
     "@graphql-tools/utils": "^8.6.1",
     "@graphql-tools/wrap": "^8.3.3",
     "dataloader": "^2.0.0",
