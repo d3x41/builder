@@ -10,7 +10,7 @@
     "serve": "yarn start"
   },
   "dependencies": {
-    "@builder.io/sdk-react": "workspace:*",
+    "@builder.io/sdk-react": "0.0.1",
     "@sdk/tests": "workspace:*",
     "next": "15.1.2",
     "react": "19.0.0",
