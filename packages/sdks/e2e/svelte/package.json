@@ -10,7 +10,7 @@
     "check": "SDK_ENV=browser svelte-check --tsconfig ./tsconfig.json"
   },
   "dependencies": {
-    "@builder.io/sdk-svelte": "workspace:*",
+    "@builder.io/sdk-svelte": "0.0.1",
     "@sdk/tests": "workspace:*"
   },
   "devDependencies": {
