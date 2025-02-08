@@ -1,0 +1,14 @@
+{
+  "name": "builder-project",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "@builder.io/sdk-react": "^0.0.1",
+    "next": "14.1.1",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "scripts": {
+    "dev": "next dev"
+  }
+}
