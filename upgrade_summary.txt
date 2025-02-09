@@ -1,0 +1,15 @@
+Proposed Changes for Dependency Upgrade
+
+1. File to modify: plugins/bigcommerce/package.json
+   Change: Update @builder.io/commerce-plugin-tools from "^0.2.1-4" to "^0.3.0"
+
+2. File to modify: plugins/bigcommerce/package-lock.json
+   Changes:
+   - Update @builder.io/commerce-plugin-tools:
+     - version: from "0.2.1-4" to "0.3.0"
+     - resolved: update URL to reflect new version
+     - integrity: update to match new version
+   - Update @builder.io/sdk dependency:
+     - from "^1.1.3-alpha.4" to "^1.1.26"
+
+Note: These changes should be applied to the actual files in the repository. This summary serves as documentation for the required updates.
